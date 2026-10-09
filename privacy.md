@@ -30,7 +30,7 @@ title: PeakState^ Privacy Policy
 
 ## 01 Overview
 
-PeakState^ ("PeakState^", "we", "us") is a strength-training and cardio-tracking app. This policy explains what information PeakState^ collects, where it's stored, and who (if anyone) it's shared with.
+PeakState^ ("PeakState^", published by Lua C LLC, "we", "us") is a strength-training and cardio-tracking app. This policy explains what information PeakState^ collects, where it's stored, and who (if anyone) it's shared with.
 
 The short version: PeakState^ is built local-first. Your training log lives in a database on your phone, not on a server we run. The only outside parties involved are Apple's App Store and RevenueCat (to process your subscription, if you have one), Sentry (to tell us when the app crashes) and Apple Maps (to draw the map on outdoor cardio screens). None of them receives your workout data.
 
@@ -126,6 +126,6 @@ Questions about this policy or your data:
 | | |
 |---|---|
 | Email | founderswd@gmail.com |
-| Developer / entity name | Rigoberto Garcia |
+| Developer / entity name | Lua C LLC |
 | Address | *(omitted)* |
 

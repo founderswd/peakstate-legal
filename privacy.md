@@ -1,10 +1,9 @@
 ---
 title: PeakState^ Privacy Policy
 ---
-
 # PeakState^ Privacy Policy
 
-**Last updated: October 9, 2026** · Applies to the PeakState^ iOS app
+**Last updated: October 11, 2026** · Applies to the PeakState^ iOS app
 
 
 **On your device** — Your workouts, cardio sessions, GPS routes, and personal records are stored locally. PeakState^ has no server of its own for this data.
@@ -49,6 +48,7 @@ PeakState^ does not require an account, a name, an email address, or a phone num
 | Subscription status | Apple App Store / RevenueCat | Yes — to RevenueCat, to activate your subscription |
 | Crash & error reports | Sentry | Yes — automatically, only when the app crashes or errors |
 | Files you export (backup, CSV, share image) | Created on your device, in the app's temporary storage | Only where you choose to send them, through the iOS share sheet |
+| Emails you send to support | Our mailbox | Yes — only what you write, sent by your own mail app when you choose to email us |
 | Weekly summary notification (optional, off by default) | Built on your device from your training data and scheduled by iOS | No — never sent to us or to anyone |
 
 We don't use analytics, advertising, or tracking software of any kind. There's no behavioral profiling, no ad identifiers, and nothing sold to data brokers.
@@ -97,7 +97,7 @@ Because your training data lives on your device, you control its retention direc
 Because PeakState^ doesn't collect personal data on a server, most data-subject requests (access, correction, deletion, portability) are things you can already do yourself, instantly, inside the app:
 
 - **Access & portability** — export a full backup, or a CSV spreadsheet of your history, at any time from Profile.
-- **Deletion** — permanently erase your training history from Settings, or delete the app to remove everything, including the local database, from your device.
+- **Deletion** — permanently erase your training history from Profile (Clear History), or delete the app to remove everything, including the local database, from your device.
 - **Location permission** — grant, deny, or revoke at any time in iOS Settings → Privacy → Location Services.
 - **Subscription data** — managed through your Apple ID / App Store account; contact Apple for App Store purchase records, or us for anything RevenueCat-specific.
 
@@ -125,7 +125,6 @@ Questions about this policy or your data:
 
 | | |
 |---|---|
-| Email | founderswd@gmail.com |
+| Email | admin@luacllc.com |
 | Developer / entity name | Lua C LLC |
 | Address | *(omitted)* |
-
